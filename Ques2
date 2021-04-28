@@ -6,7 +6,7 @@ for i in range(a):
   a1=int(c[0])
   a2=int(c[1])
   a3=a1//a2 
-  trips=a1+a3+(a3//a2)        #almmost correct code but will work in few test cases only #mistake in calculations part only
+  trips=a1+a3+(a3//a2)        #almmost correct code but will work in few test cases only #mistake in calculations part only mistake here
   d.append(trips)
 
 for j in d:
